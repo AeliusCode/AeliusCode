@@ -8,5 +8,7 @@ its a fun language to use though i stil love experimenting with it*/
 
 - Making a terraria mod 👍
 - Learning how to use A FUCKING OVERRIDE
-<img src="https://qph.cf2.quoracdn.net/main-qimg-cbdcbd92c37c17bf5d9a7913bbdcc848-pjlq" alt="What is method overloading and method overriding in C#? - Quora"/>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/overriding-in-C-1.png" alt="C# | Method Overriding - GeeksforGeeks"/>
+
+
 
